@@ -2057,6 +2057,10 @@ python-qt5-bindings-gl:
     xenial: [python-pyqt5.qtopengl]
     yakkety: [python-pyqt5.qtopengl]
     zesty: [python-pyqt5.qtopengl]
+python-quick2wire-api:
+  debian:
+    pip:
+      packages: [quick2wire-api]
 python-qwt5-qt4:
   arch: [pyqwt]
   debian: [python-qwt5-qt4]
